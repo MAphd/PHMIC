@@ -11,5 +11,7 @@ Readme.txt
 
 Explanation:
 Extract both archives to the same folder: move both archives to the same folder and press "Extract here". These have been seperated for license reasons.
+
 The archive "Scripts.7z" contains R scripts that have been used to analyze data and some raw data for certain datasets (). The license for this archive is -  © Copyright 2025 Technical University of Denmark BSD-3-Clause
+
 The archive "Rawdata.7z" contains any raw data used for the manuscript and is published under - © Copyright 2025 Technical University of Denmark CC BY 4.0 license.
