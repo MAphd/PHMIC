@@ -5,13 +5,13 @@ The data included in this repository include growth kinetics at different pH's a
 
 
 This repository contains the following files:
-Rawdata.7z
-Scripts.7z
+Rawdata.zip
+Scripts.zip
 Readme.txt
 
 Explanation:
-Extract both archives to the same folder: move both archives to the same folder and press "Extract here". These have been seperated for license reasons.
+Move both archives to the same folder and (right click) press "Extract here". These archives have been seperated for license reasons, but should be extracted to the same folder.
 
-The archive "Scripts.7z" contains R scripts that have been used to analyze data and some raw data for certain datasets (). The license for this archive is -  © Copyright 2025 Technical University of Denmark BSD-3-Clause
+The archive "Scripts.zip" contains R scripts that have been used to analyze data and some raw data for certain datasets (MIC data). The license for this archive is -  © Copyright 2025 Technical University of Denmark BSD-3-Clause
 
-The archive "Rawdata.7z" contains any raw data used for the manuscript and is published under - © Copyright 2025 Technical University of Denmark CC BY 4.0 license.
+The archive "Rawdata.zip" contains any raw data used for the manuscript and is published under - © Copyright 2025 Technical University of Denmark CC BY 4.0 license.
